@@ -1,0 +1,1 @@
+{"version":3,"file":"City.js","sourceRoot":"","sources":["../../src/APP/City.ts"],"names":[],"mappings":";;AAAA,SAAwB,KAAK,CAAC,CAAS,EAAE,CAAS;IAChD,OAAO,CAAC,GAAG,CAAC,CAAC;AACf,CAAC;AAFD,wBAEC","sourcesContent":["export default function Cheng(x: number, y: number): number {\r\n  return x * y;\r\n}\r\n"]}
